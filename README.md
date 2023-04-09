@@ -8,10 +8,10 @@ A react native calculator app, with light and dark mode theme.
 
 ## Installation
 
-Install N-Calculator with npm
+Install RN-Calculator with npm
 
 ```bash
-  cd my-project
+  cd RN-Calculator
   npm install 
 ```
 Run RN-Calculator
