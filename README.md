@@ -14,7 +14,7 @@ Install RN-Calculator with npm
   cd RN-Calculator
   npm install 
 ```
-Run RN-Calculator
+To run RN-Calculator app
 
 ```
 expo start
